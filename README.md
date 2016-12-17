@@ -36,12 +36,11 @@ HOW TO RUN:
    
 4) When running either executable specify the desired options for the run. 
 
-   i.e. "MultiThreadingSimulation.exe 98 1000000 1"
-   
-   (98 - thread count, 1000000 - iteration count, 1 - mutex enabled)
+	i.e. "MultiThreadingSimulation.exe 98 1000000 1"
+	(98 - thread count, 1000000 - iteration count, 1 - mutex enabled)
  
 5) Wait for the program execution to end.
  
 6) Execution ends when the user is prompted for a key
 
-   i.e. "Enter any key to exit: "
+	i.e. "Enter any key to exit: "
