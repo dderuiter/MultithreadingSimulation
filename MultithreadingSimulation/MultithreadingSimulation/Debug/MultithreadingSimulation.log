@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(83): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(178): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(178): note: consider using '%lld' in the format string
+  c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(178): note: consider using '%I64d' in the format string
+c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(179): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(179): note: consider using '%lld' in the format string
+  c:\users\davis deruiter\documents\visual studio 2015\projects\multithreadingsimulation\multithreadingsimulation\main.cpp(179): note: consider using '%I64d' in the format string
+  MultithreadingSimulation.vcxproj -> c:\users\davis deruiter\documents\visual studio 2015\Projects\MultithreadingSimulation\Debug\MultithreadingSimulation.exe
