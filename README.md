@@ -4,6 +4,7 @@ OVERVIEW:
 
 Simple demonstration of multithreading, how it can generate race conditions, and how to solve race conditions using mutexes.
 
+
 DETAILS:
 
 Author: Davis DeRuiter
@@ -15,6 +16,7 @@ School: Liberty University
 Course: CSIS 443-001
 
 Assignment: Final Project
+
 
 HOW TO RUN:
 
